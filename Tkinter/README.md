@@ -3,7 +3,7 @@ There are two examples, example_1.py and example_2.py
 # Paper Reading System
 ![PRS](./PRS.jpg)
 
-##Functions
+## Functions
 1. open FSCapture software and Foxit Reader
 2. record the reading history
 3. add notes to screenshot images
